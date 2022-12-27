@@ -1,0 +1,19 @@
+.paragraph {
+    background-color: #e4aab4;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#num-two {
+    font-size: 36px;
+    color: #0000ff;
+}
+
+#num-four {
+    background-color: #90ee90;
+    font-weight: 700;
+    font-size: 24px;
+}
